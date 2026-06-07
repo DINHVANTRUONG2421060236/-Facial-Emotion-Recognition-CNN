@@ -67,11 +67,11 @@ Dự án sử dụng bộ dữ liệu FER2013.
 - Validation Accuracy: 54.5%
 - Training Loss: 0.4099
 - Validation Loss: 1.9696
-![Training Result](train_result.png)
+![Training Result](train.png)
 ## Ví dụ kết quả
 test.jpg => happy (95.87%)
 test1.jpg => angry (35.87%)
-![Test Result](test_result.png)
+![Test Result](test.png)
 ## File mô hình
 - best_emotion_model.keras
 - emotion_model.h5
