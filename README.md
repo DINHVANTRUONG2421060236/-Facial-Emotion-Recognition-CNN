@@ -73,7 +73,7 @@ test.jpg => happy (95.87%)
 test1.jpg => angry (35.87%)
 ![Test Result](test.png)
 ## File mô hình
-- best_emotion_model.keras
+- best_emotion_model.keras (Google Drive) Link tải:https://drive.google.com/file/d/1hxi3PwDUZkuiByw0bbm5Oay-apk61iyT/view?usp=sharing
 - emotion_model.h5
 ## Video Demo
 
