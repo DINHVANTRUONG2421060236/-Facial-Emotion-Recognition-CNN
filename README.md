@@ -49,3 +49,34 @@ TensorFlow & Keras: Xây dựng cấu trúc mạng CNN chuyên sâu (Conv2D, Max
 OpenCV (cv2): Đọc luồng video từ webcam, chuyển đổi hình ảnh sang hệ màu xám (Gray Scale), áp dụng bộ lọc phát hiện khuôn mặt và vẽ khung chữ đồ họa.
 
 NumPy: Tiền xử lý mảng ma trận điểm ảnh (Reshape, Normalize dữ liệu ảnh về khoảng từ 0 đến 1) giúp tăng tốc độ xử lý phần cứng.
+## Dataset
+Dự án sử dụng bộ dữ liệu FER2013.
+- 35.887 ảnh khuôn mặt
+- Kích thước 48x48 pixel
+- Ảnh grayscale
+- 7 lớp cảm xúc:
+  - Angry
+  - Disgust
+  - Fear
+  - Happy
+  - Sad
+  - Surprise
+  - Neutral
+## Kết quả huấn luyện
+- Training Accuracy: 84.63%
+- Validation Accuracy: 54.5%
+- Training Loss: 0.4099
+- Validation Loss: 1.9696
+## Ví dụ kết quả
+test.jpg => happy (95.87%)
+test1.jpg => angry (35.87%)
+## File mô hình
+- best_emotion_model.keras
+- emotion_model.h5
+## Video Demo
+
+
+## 
+Họ tên: ĐINH VĂN TRƯỜNG
+
+MSSV: 2421060236 DCCDROBOT69
