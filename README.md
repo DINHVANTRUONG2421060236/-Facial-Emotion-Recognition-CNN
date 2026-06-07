@@ -76,6 +76,7 @@ test1.jpg => angry (35.87%)
 - best_emotion_model.keras (Google Drive) Link tải:https://drive.google.com/file/d/1hxi3PwDUZkuiByw0bbm5Oay-apk61iyT/view?usp=sharing
 - emotion_model.h5
 ## Video Demo
+link : https://drive.google.com/file/d/1g4x7Pq8BX47ot7nErSCCbx5hgfOrnWVU/view?usp=sharing
 
 
 ## 
